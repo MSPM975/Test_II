@@ -1,12 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: MSPM
+author: MSPM975
+email: mspm975@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Jeu de société sur Saint Pierre & Miquelon.
 show_excerpts: true # set to true to show excerpts on the homepage
 
+# demandé avant le lancement
 remote_theme: thelehhman/plainwhite-jekyll
 theme: plainwhite
 
@@ -15,17 +14,17 @@ theme: plainwhite
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: MSPM
+  tagline: Devenez le maître de ces îles
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
+    # twitter: thelehhman
+    # github:  thelehhman
+    # linkedIn: in/thelehhman
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
